@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="entreeMenuFragment" type="id" />
+    <item name="startOrder" type="id" />
+    <item name="sideMenuFragment" type="id" />
+    <item name="accompanimentMenuFragment" type="id" />
+    <item name="checkoutFragment" type="id" />
+</resources>
